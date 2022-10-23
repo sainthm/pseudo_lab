@@ -1,6 +1,13 @@
+####################
+#    .gitignore    #
+####################
 
 *.pdf
 .DS_Store
 .ipynb_checkpoints
+*.xml
+*.xls
+.DS_Store
+
 
 
