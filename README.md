@@ -6,7 +6,7 @@
 
 <br>
 
-## 10.21
+## 10.23
 - week_6 folder | For presentation
 	- Introduction_to_data_visualization_with_matplotlib.ipynb
 	- crime.xlsx
