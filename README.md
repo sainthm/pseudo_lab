@@ -19,5 +19,5 @@
 - week_9 folder
 
 
-## 12.10
+## 12.10 - Introduction to Statistics in Python
 - week_13 folder
