@@ -16,4 +16,8 @@
 
 
 ## 11.13
-- wwek_9 folder
+- week_9 folder
+
+
+## 12.10
+-
