@@ -21,3 +21,6 @@
 
 ## 12.10 - Introduction to Statistics in Python
 - week_13 folder
+
+## 12.17 - Exploratory Data Analysis in Python
+- week_14 folder
