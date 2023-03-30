@@ -8,7 +8,7 @@
 
 ## List of Contents:
 
-[ ] Introduction to Python
++ [ ] Introduction to Python
 
 
 
