@@ -11,6 +11,10 @@
 - [ ] Introduction to Python
 - [ ] Intermediate Python
 - [ ] Investigating Netflix Movies and Guest Stars in The Office (Project)
+- [ ] Data Manipulation with pandas
+- [ ] Joining Data with pandas
+- [ ] Introduction to Statistics in Python
+- [ ] What and Whare are the World's Oldest Business (Project)
 
 
 
