@@ -9,6 +9,7 @@
 ## List of Contents:
 
 + [ ] Introduction to Python
+* [ ] Intermediate Python
 
 
 
