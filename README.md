@@ -1,8 +1,11 @@
 # pseudo_lab
 
-# To-Do List (Update: 23.03.30)
-
 ## Data Scientist with Python
+
+### To-Do List 
+
+- Update: 23.03.30
+
 
 <br>
 
