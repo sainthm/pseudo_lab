@@ -39,7 +39,8 @@
 - [ ] Supervised Learning with scikit-learn
 - [ ] Predicting Credit Card Approvals (Project)
 - [x] Unsupervised Learning in Python
-- [ ] 
+- [ ] Machine Learning with Tree-Based Models in Python
+- [ ] **Statement of Accdomplishment**🥳
 
 
 
