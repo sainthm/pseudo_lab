@@ -15,6 +15,9 @@
 - [ ] Joining Data with pandas
 - [ ] Introduction to Statistics in Python
 - [ ] What and Whare are the World's Oldest Business (Project)
+- [ ] Introduction to Data Visualization with Matplotlib
+- [ ] Introduction to Data Visualization with Seaborn
+- [x] Python Data Science Toolbox (Part 1)
 
 
 
