@@ -8,7 +8,7 @@
 
 ## List of Contents:
 
-- [ ] Introduction to Python
+[ ] Introduction to Python
 
 
 
@@ -16,8 +16,6 @@
 <br>
 
 # History & Archiving
-
-<br>
 
 ## 10.09
 - Joining Data with pandas | DataCamp
