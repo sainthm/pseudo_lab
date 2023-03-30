@@ -1,5 +1,24 @@
 # pseudo_lab
 
+# To-Do List (Update: 23.03.30)
+
+## Data Scientist with Python
+
+<br>
+
+## List of Contents:
+
+[ ] 1. Introduction to Python
+
+
+
+
+<br>
+
+# History & Archiving
+
+<br>
+
 ## 10.09
 - Joining Data with pandas | DataCamp
 - Data Manipulation with pandas Course | DataCamp
