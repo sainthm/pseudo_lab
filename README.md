@@ -11,7 +11,7 @@
 
 ## List of Contents:
 
-- [ ] Introduction to Python
+- [x] Introduction to Python
 - [ ] Intermediate Python
 - [ ] Investigating Netflix Movies and Guest Stars in The Office (Project)
 - [ ] Data Manipulation with pandas
